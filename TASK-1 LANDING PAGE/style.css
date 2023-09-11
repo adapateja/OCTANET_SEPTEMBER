@@ -335,3 +335,17 @@ input[type="email"] {
     margin: 1rem 1rem 0 1rem;
   }
 }
+#copy{
+    color: #220726;
+    margin-top:-70px;
+    text-align: center;
+}
+#copy a{
+    text-decoration: none;
+    color: #3e6d78;
+    transition: 0.5s;
+    font-size: 20px;
+}
+#copy a:hover{
+    color: #220726;
+}
